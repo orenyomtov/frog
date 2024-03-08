@@ -1,5 +1,11 @@
 # frog
 
+## 0.5.6
+
+### Patch Changes
+
+- [`9d77208`](https://github.com/wevm/frog/commit/9d7720896ac981f5857990a22650975598b32a3d) Thanks [@jxom](https://github.com/jxom)! - Added ability for `fonts` on route options to be an async function.
+
 ## 0.5.5
 
 ### Patch Changes
